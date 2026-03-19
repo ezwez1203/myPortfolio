@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/masterPortfolio/static/css/main.9692cbab.chunk.css",
-    "main.js": "/masterPortfolio/static/js/main.d2a1fcc8.chunk.js",
-    "main.js.map": "/masterPortfolio/static/js/main.d2a1fcc8.chunk.js.map",
+    "main.css": "/masterPortfolio/static/css/main.531cf314.chunk.css",
+    "main.js": "/masterPortfolio/static/js/main.719e12ed.chunk.js",
+    "main.js.map": "/masterPortfolio/static/js/main.719e12ed.chunk.js.map",
     "runtime-main.js": "/masterPortfolio/static/js/runtime-main.eb888f65.js",
     "runtime-main.js.map": "/masterPortfolio/static/js/runtime-main.eb888f65.js.map",
     "static/js/2.a143432d.chunk.js": "/masterPortfolio/static/js/2.a143432d.chunk.js",
     "static/js/2.a143432d.chunk.js.map": "/masterPortfolio/static/js/2.a143432d.chunk.js.map",
     "index.html": "/masterPortfolio/index.html",
-    "precache-manifest.bc664c74db075df2a393e8a9c2bbf4d8.js": "/masterPortfolio/precache-manifest.bc664c74db075df2a393e8a9c2bbf4d8.js",
+    "precache-manifest.4d6fbfb9aea1ffadb54867008e4e281a.js": "/masterPortfolio/precache-manifest.4d6fbfb9aea1ffadb54867008e4e281a.js",
     "service-worker.js": "/masterPortfolio/service-worker.js",
-    "static/css/main.9692cbab.chunk.css.map": "/masterPortfolio/static/css/main.9692cbab.chunk.css.map",
+    "static/css/main.531cf314.chunk.css.map": "/masterPortfolio/static/css/main.531cf314.chunk.css.map",
     "static/media/index.css": "/masterPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Ashutosh_Hathidara_Resume_ML.pdf": "/masterPortfolio/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf",
     "static/media/Futurevel logo.svg": "/masterPortfolio/static/media/Futurevel logo.2a088c43.svg",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb888f65.js",
     "static/js/2.a143432d.chunk.js",
-    "static/css/main.9692cbab.chunk.css",
-    "static/js/main.d2a1fcc8.chunk.js"
+    "static/css/main.531cf314.chunk.css",
+    "static/js/main.719e12ed.chunk.js"
   ]
 }

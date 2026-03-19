@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d857b15a6c9bb19a83b5bcb6bc28c5c",
+    "revision": "27d7fd477a214c0e59b3dcddf1c097a1",
     "url": "/masterPortfolio/index.html"
   },
   {
-    "revision": "f1ed2976a6a817b24396",
-    "url": "/masterPortfolio/static/css/main.9692cbab.chunk.css"
+    "revision": "e6c76ea1b1de7eb60979",
+    "url": "/masterPortfolio/static/css/main.531cf314.chunk.css"
   },
   {
     "revision": "339efec61e1077660a68",
     "url": "/masterPortfolio/static/js/2.a143432d.chunk.js"
   },
   {
-    "revision": "f1ed2976a6a817b24396",
-    "url": "/masterPortfolio/static/js/main.d2a1fcc8.chunk.js"
+    "revision": "e6c76ea1b1de7eb60979",
+    "url": "/masterPortfolio/static/js/main.719e12ed.chunk.js"
   },
   {
     "revision": "64cdc71345ae0918beab",
@@ -32,36 +32,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masterPortfolio/static/media/Futurevel logo.2a088c43.svg"
   },
   {
-    "revision": "4457817ac2b9993c65e81aa05828fe9c",
-    "url": "/masterPortfolio/static/media/GoogleSans-Bold.4457817a.ttf"
-  },
-  {
-    "revision": "90773b6158663ab0fe78b32680733677",
-    "url": "/masterPortfolio/static/media/GoogleSans-BoldItalic.90773b61.ttf"
-  },
-  {
-    "revision": "0ecddcdeccb7761ce899aa9ad9f0ac3f",
-    "url": "/masterPortfolio/static/media/GoogleSans-Italic.0ecddcde.ttf"
-  },
-  {
-    "revision": "8d57e4014b18edef070d285746485115",
-    "url": "/masterPortfolio/static/media/GoogleSans-Medium.8d57e401.ttf"
-  },
-  {
-    "revision": "8fd3737925e83c87d78a13700ccf9a62",
-    "url": "/masterPortfolio/static/media/GoogleSans-MediumItalic.8fd37379.ttf"
-  },
-  {
-    "revision": "b5c77a6aed75cdad9489effd0d5ea411",
-    "url": "/masterPortfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf"
-  },
-  {
     "revision": "804af7f1111228439b55f0e01fe51835",
     "url": "/masterPortfolio/static/media/HyundaiHigh.804af7f1.svg"
   },
   {
-    "revision": "d7b98c450349bef0631c7229b804a5c7",
-    "url": "/masterPortfolio/static/media/Minecraft.d7b98c45.ttf"
+    "revision": "8658ffe39dbfa1c12436789a50212180",
+    "url": "/masterPortfolio/static/media/JetBrainsMono-Bold.8658ffe3.ttf"
+  },
+  {
+    "revision": "a6d89cbaeda9ce8e23109383e0722f76",
+    "url": "/masterPortfolio/static/media/JetBrainsMono-BoldItalic.a6d89cba.ttf"
+  },
+  {
+    "revision": "348ef43cb2b4be35e6489fd9a1261ce0",
+    "url": "/masterPortfolio/static/media/JetBrainsMono-Italic.348ef43c.ttf"
+  },
+  {
+    "revision": "b41d61d1b5a063fdcb6a7cdeacac57b0",
+    "url": "/masterPortfolio/static/media/JetBrainsMono-Medium.b41d61d1.ttf"
+  },
+  {
+    "revision": "d342311bd6965cf2369c76dacaebe293",
+    "url": "/masterPortfolio/static/media/JetBrainsMono-MediumItalic.d342311b.ttf"
+  },
+  {
+    "revision": "d09f65145228b709a10fa0a06d522d89",
+    "url": "/masterPortfolio/static/media/JetBrainsMono-Regular.d09f6514.ttf"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
