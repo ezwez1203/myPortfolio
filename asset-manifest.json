@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/masterPortfolio/static/css/main.3a15dae3.chunk.css",
+    "main.css": "/masterPortfolio/static/css/main.9692cbab.chunk.css",
     "main.js": "/masterPortfolio/static/js/main.455e3eab.chunk.js",
     "main.js.map": "/masterPortfolio/static/js/main.455e3eab.chunk.js.map",
     "runtime-main.js": "/masterPortfolio/static/js/runtime-main.eb888f65.js",
@@ -8,9 +8,9 @@
     "static/js/2.3c230b21.chunk.js": "/masterPortfolio/static/js/2.3c230b21.chunk.js",
     "static/js/2.3c230b21.chunk.js.map": "/masterPortfolio/static/js/2.3c230b21.chunk.js.map",
     "index.html": "/masterPortfolio/index.html",
-    "precache-manifest.1cbb87d71f57c3b1a30b7b4e88307e2c.js": "/masterPortfolio/precache-manifest.1cbb87d71f57c3b1a30b7b4e88307e2c.js",
+    "precache-manifest.f621a7018a75521101d63af106be58d9.js": "/masterPortfolio/precache-manifest.f621a7018a75521101d63af106be58d9.js",
     "service-worker.js": "/masterPortfolio/service-worker.js",
-    "static/css/main.3a15dae3.chunk.css.map": "/masterPortfolio/static/css/main.3a15dae3.chunk.css.map",
+    "static/css/main.9692cbab.chunk.css.map": "/masterPortfolio/static/css/main.9692cbab.chunk.css.map",
     "static/media/index.css": "/masterPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Ashutosh_Hathidara_Resume_ML.pdf": "/masterPortfolio/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf",
     "static/media/Futurevel logo.svg": "/masterPortfolio/static/media/Futurevel logo.2a088c43.svg",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb888f65.js",
     "static/js/2.3c230b21.chunk.js",
-    "static/css/main.3a15dae3.chunk.css",
+    "static/css/main.9692cbab.chunk.css",
     "static/js/main.455e3eab.chunk.js"
   ]
 }

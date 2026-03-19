@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57b9f30c2fa1464e4db02b55d1758b6a",
+    "revision": "f8b7e3fa33774c7be87fb424f48ca672",
     "url": "/masterPortfolio/index.html"
   },
   {
-    "revision": "609811edc02f362166e1",
-    "url": "/masterPortfolio/static/css/main.3a15dae3.chunk.css"
+    "revision": "cd9b0d25cc732fe9a39e",
+    "url": "/masterPortfolio/static/css/main.9692cbab.chunk.css"
   },
   {
     "revision": "2a37d1baadccecd646ea",
     "url": "/masterPortfolio/static/js/2.3c230b21.chunk.js"
   },
   {
-    "revision": "609811edc02f362166e1",
+    "revision": "cd9b0d25cc732fe9a39e",
     "url": "/masterPortfolio/static/js/main.455e3eab.chunk.js"
   },
   {
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "804af7f1111228439b55f0e01fe51835",
     "url": "/masterPortfolio/static/media/HyundaiHigh.804af7f1.svg"
+  },
+  {
+    "revision": "d7b98c450349bef0631c7229b804a5c7",
+    "url": "/masterPortfolio/static/media/Minecraft.d7b98c45.ttf"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
