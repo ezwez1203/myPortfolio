@@ -9,11 +9,11 @@ const settings = {
 const seo = {
   title: "Lucius's Portfolio",
   description:
-    "데이터와 기술로 새로운 가치를 창출합니다. Futurevel.Co의 CTO이자 위상수학적 데이터 분석(TDA) 연구원으로서, 의료 및 다차원 데이터의 미해결 난제를 풀어갑니다.",
+    "Creating new value through data and technology. CTO at Futurevel.Co and undergraduate researcher specializing in Topological Data Analysis (TDA) for medical and high-dimensional data.",
   og: {
     title: "Lucius — CTO & TDA Researcher",
     type: "website",
-    url: "",
+    url: "https://ezwez1203.github.io/masterPortfolio/",
   },
 };
 
@@ -23,15 +23,15 @@ const greeting = {
   logo_name: "Lucius",
   nickname: "CTO at Futurevel.Co",
   subTitle:
-    "데이터와 기술로 새로운 가치를 창출합니다. 현재 Futurevel.Co의 CTO로서 웹앱 서비스를 리드하고 있으며, 위상수학적 데이터 분석(TDA)을 활용하여 의료 및 다차원 데이터의 미해결 난제를 푸는 연구에 몰두하고 있습니다.",
+    "Creating new value through data and technology. Currently leading web app services as CTO of Futurevel.Co, while conducting research on solving unsolved challenges in medical and high-dimensional data using Topological Data Analysis (TDA).",
   resumeLink: "",
   portfolio_repository: "",
   githubProfile: "",
 };
 
 const socialMediaLinks = [
-  // 소셜 미디어 링크를 추가하세요
-  // 예시:
+  // Add your social media links here
+  // Example:
   // {
   //   name: "Github",
   //   link: "https://github.com/your-username",
@@ -46,10 +46,10 @@ const skills = {
       title: "TDA & Data Science",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ 위상수학적 데이터 분석(TDA)을 활용한 다차원 데이터 구조 분석",
-        "⚡ 딥러닝 모델과 TDA를 결합한 의료 데이터(유전자, ECG, ABP) 분석",
-        "⚡ 유방암 서브타입 탐색, 중환자실 위험 예측 등 바이오메디컬 연구",
-        "⚡ 네트워크 보안 데이터 분석 및 제로데이 어택 방지 모델링",
+        "⚡ High-dimensional data structure analysis using Topological Data Analysis (TDA)",
+        "⚡ Biomedical research combining deep learning with TDA on genomic, ECG, and ABP data",
+        "⚡ Breast cancer subtype discovery, ICU risk prediction, and retinal image analysis",
+        "⚡ Network security modeling — zero-day attack detection via TDA on web packet data",
       ],
       softwareSkills: [
         {
@@ -92,9 +92,9 @@ const skills = {
       title: "Backend & Web Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ 웹앱 '어디수업(whereclass.me)' 전체 백엔드 아키텍처 설계 및 개발",
-        "⚡ 확장 가능한 서버 인프라 설계 및 DB 최적화",
-        "⚡ RESTful API 설계 및 클라우드 기반 배포",
+        "⚡ Designed and built the full backend architecture for 'WhereClass' (whereclass.me)",
+        "⚡ Scalable server infrastructure design and database optimization",
+        "⚡ RESTful API design and cloud-based deployment",
       ],
       softwareSkills: [
         {
@@ -167,22 +167,22 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "연세대학교 미래캠퍼스",
-      subtitle: "Undergraduate (재학중)",
-      logo_path: "iiitk_logo.png",
+      title: "Yonsei University (Mirae Campus)",
+      subtitle: "Undergraduate (Currently Enrolled)",
+      logo_path: "YonseiUniversity.svg",
       alt_name: "Yonsei University Mirae Campus",
       duration: "2022 - Present",
       descriptions: [
-        "⚡ 위상수학적 데이터 분석(TDA)과 딥러닝을 결합한 의료 데이터 연구를 수행하고 있습니다.",
-        "⚡ Futurevel.Co의 CTO로서 재학 중 창업하여 웹앱 서비스를 공식 런칭했습니다.",
-        "⚡ 다수의 창업 경진대회 및 해커톤에서 대상을 수상한 경력이 있습니다.",
+        "⚡ Conducting research combining Topological Data Analysis (TDA) with deep learning for medical data.",
+        "⚡ Founded a startup as CTO during undergraduate studies and officially launched a web app service.",
+        "⚡ Multiple grand prizes in startup competitions and hackathons.",
       ],
       website_link: "https://www.yonsei.ac.kr/",
     },
     {
-      title: "압구정 현대고등학교",
-      subtitle: "졸업",
-      logo_path: "iiitk_logo.png",
+      title: "Apgujeong Hyundai High School",
+      subtitle: "Graduated",
+      logo_path: "HyundaiHigh.svg",
       alt_name: "Apgujeong Hyundai High School",
       duration: "2019 - 2022",
       descriptions: [],
@@ -194,7 +194,7 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "ICAIIC 논문 발표",
+      title: "ICAIIC Paper Presentation",
       subtitle: "- Adversarial Robustness of Deep Learning-Based AMC",
       logo_path: "google_logo.png",
       certificate_link: "",
@@ -202,7 +202,7 @@ const certifications = {
       color_code: "#0C9D5899",
     },
     {
-      title: "CITI Program 생명연구윤리 교육",
+      title: "CITI Program — Research Ethics",
       subtitle: "- MIT (Massachusetts Institute of Technology)",
       logo_path: "stanford_logo.png",
       certificate_link: "",
@@ -215,9 +215,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work & Projects",
+  subtitle: "Work, Research & Awards",
   description:
-    "Futurevel.Co의 CTO이자 백엔드 개발자로서 웹앱 서비스를 리드하고 있습니다. 기술 스타트업에서의 실전 경험과 학부 연구를 병행하며 데이터 기반의 혁신적인 솔루션을 만들어가고 있습니다.",
+    "As CTO and backend developer at Futurevel.Co, I lead web app services. Combining hands-on startup experience with undergraduate research, I build innovative data-driven solutions.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -228,11 +228,11 @@ const experience = {
           title: "CTO & Backend Developer",
           company: "Futurevel.Co",
           company_url: "https://whereclass.me",
-          logo_path: "google_logo.png",
+          logo_path: "Futurevel logo.svg",
           duration: "2024 - Present",
           location: "South Korea",
           description:
-            "웹앱 '어디수업'(whereclass.me)을 개발하고 공식 런칭(2025)했습니다. 전체 백엔드 아키텍처를 설계하고 개발을 리드하며, 서비스의 기술적 방향을 총괄하고 있습니다. 확장 가능한 인프라 설계와 데이터베이스 최적화를 통해 안정적인 서비스 운영을 실현했습니다.",
+            "Developed and officially launched the web app 'WhereClass' (whereclass.me) in 2025. Designed the entire backend architecture and led development, overseeing the technical direction of the service. Achieved stable service operations through scalable infrastructure design and database optimization.",
           color: "#0879bf",
         },
       ],
@@ -242,13 +242,13 @@ const experience = {
       experiences: [
         {
           title: "Undergraduate Researcher — TDA & Deep Learning",
-          company: "연세대학교",
+          company: "Yonsei University",
           company_url: "https://www.yonsei.ac.kr/",
-          logo_path: "iiitk_logo.png",
+          logo_path: "YonseiUniversity.svg",
           duration: "2023 - Present",
           location: "South Korea",
           description:
-            "유방암 환자의 새로운 하위 유형(Subtype) 발굴을 위해 유전자 데이터에 TDA를 적용하고 있습니다. 중환자실 내 심전도(ECG) 및 동맥혈압(ABP) 데이터에 TDA를 적용하여 심실빈맥/심실세동 발생 시점 예측 모델을 연구하고 있습니다. 그 외 TCGA 유전자 데이터 분석, 망막 이미지 기반 녹내장/알츠하이머 판별, 네트워크 보안(제로데이 어택 방지) 등 다차원 데이터 기반 미해결 난제를 탐구합니다.",
+            "Applying TDA to genomic data to discover novel breast cancer subtypes. Researching time-to-event prediction models for ventricular tachycardia/fibrillation using TDA on ICU ECG and ABP data. Also exploring TCGA genomic analysis, glaucoma/Alzheimer's detection from retinal images, zero-day attack prevention in network security, and complex high-dimensional data problems in rocketry, aerospace, and neuroscience.",
           color: "#4285F4",
         },
       ],
@@ -257,68 +257,69 @@ const experience = {
       title: "Awards & Honors",
       experiences: [
         {
-          title: "HIRA 빅데이터 활용 글로벌 인재 양성 교육 대상",
-          company: "건강보험 심사평가원",
+          title: "HIRA Big Data Global Talent Program — Grand Prize",
+          company: "Health Insurance Review & Assessment Service",
           company_url: "",
           logo_path: "google_logo.png",
           duration: "2026",
-          location: "건강보험 심사평가원장상",
+          location: "HIRA President's Award",
           description:
-            "HIRA 빅데이터를 활용한 글로벌 인재 양성 교육 프로그램에서 대상을 수상했습니다.",
+            "Awarded grand prize in the HIRA Big Data Global Talent Development Program.",
           color: "#0C9D58",
         },
         {
-          title: "강원특별자치도 대학생 창업 경진대회 대상",
-          company: "강원특별자치도",
+          title: "Gangwon Province Startup Competition — Grand Prize",
+          company: "Gangwon Special Self-Governing Province",
           company_url: "",
           logo_path: "google_logo.png",
           duration: "2025",
-          location: "도지사상",
+          location: "Governor's Award",
           description:
-            "강원특별자치도 대학생 창업 경진대회에서 대상(도지사상)을 수상했습니다.",
+            "Won the grand prize (Governor's Award) at the Gangwon Province University Student Startup Competition.",
           color: "#D83B01",
         },
         {
-          title: "연세 MEDICI+ 창업해커톤 여름 캠프 대상",
-          company: "연세대학교",
+          title: "Yonsei MEDICI+ Startup Hackathon — Grand Prize",
+          company: "Yonsei University",
           company_url: "https://www.yonsei.ac.kr/",
           logo_path: "iiitk_logo.png",
           duration: "2025",
           location: "",
           description:
-            "연세 MEDICI+ 창업해커톤 여름 캠프에서 대상을 수상했습니다.",
+            "Awarded grand prize at the Yonsei MEDICI+ Startup Hackathon Summer Camp.",
           color: "#0879bf",
         },
         {
-          title:
-            "동북권 ICT 이노베이션스퀘어 창업아이디어 경진 대회 본선 진출",
-          company: "ICT 이노베이션스퀘어",
+          title: "Northeast ICT Innovation Square — Finals",
+          company: "ICT Innovation Square",
           company_url: "",
           logo_path: "google_logo.png",
           duration: "2025",
           location: "",
           description:
-            "동북권 ICT 이노베이션스퀘어 창업아이디어 경진 대회 본선에 진출했습니다.",
+            "Advanced to the finals of the Northeast ICT Innovation Square Startup Idea Competition.",
           color: "#181717",
         },
         {
-          title: "관광데이터 공모전 예선 통과",
+          title: "Tourism Data Contest — Preliminary Round Passed",
           company: "",
           company_url: "",
           logo_path: "google_logo.png",
           duration: "2025",
           location: "",
-          description: "관광데이터 공모전 예선을 통과했습니다.",
+          description:
+            "Passed the preliminary round of the Tourism Data Contest.",
           color: "#ee3c26",
         },
         {
-          title: "FIN:NECT 챌린지 예선 통과",
+          title: "FIN:NECT Challenge — Preliminary Round Passed",
           company: "",
           company_url: "",
           logo_path: "google_logo.png",
           duration: "2025",
           location: "",
-          description: "FIN:NECT 챌린지 예선을 통과했습니다.",
+          description:
+            "Passed the preliminary round of the FIN:NECT Challenge.",
           color: "#0071C5",
         },
       ],
@@ -330,14 +331,14 @@ const experience = {
 const projectsHeader = {
   title: "Research & Projects",
   description:
-    "위상수학적 데이터 분석(TDA)과 딥러닝을 결합하여 의료, 보안, 우주 공학 등 다양한 분야의 다차원 데이터 난제를 풀어가고 있습니다.",
+    "Solving complex high-dimensional data challenges across healthcare, security, aerospace, and more — by combining Topological Data Analysis (TDA) with deep learning.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
-  title: "Publications",
+  title: "Publications & Current Research",
   description:
-    "학술 논문 및 연구 결과물을 통해 TDA와 딥러닝의 실제 적용 가능성을 탐구합니다.",
+    "Exploring the real-world applicability of TDA and deep learning through academic papers and ongoing research projects.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -347,16 +348,52 @@ const publications = {
       id: "adversarial-robustness-amc",
       name: "Adversarial Robustness of Deep Learning-Based AMC",
       createdAt: "2026-02-01T00:00:00Z",
-      description: "ICAIIC 2026 발표 논문",
+      description: "Paper presented at ICAIIC 2026",
       url: "",
     },
     {
       id: "adafed-federated-learning",
       name: "AdaFed: Adaptive Selective Aggregation for Heterogeneous Federated Learning in Autonomous Driving",
       createdAt: "2025-01-01T00:00:00Z",
-      description: "자율주행을 위한 이종 연합학습 적응적 선택 집계 연구",
+      description:
+        "Research on adaptive selective aggregation for heterogeneous federated learning in autonomous driving",
       url: "",
     },
+    {
+      id: "breast-cancer-subtype",
+      name: "Discovering Novel Breast Cancer Subtypes",
+      createdAt: "2026-03-01T00:00:00Z",
+      description: "Applying Topological Data Analysis (TDA) to genomic data to explore previously unknown breast cancer subtypes.",
+      url: "",
+    },
+    {
+      id: "icu-event-prediction",
+      name: "Predicting High-Risk Events in ICUs",
+      createdAt: "2026-03-01T00:00:00Z",
+      description: "Applying TDA to ECG and ABP data to model and predict the time-to-event for ventricular tachycardia and fibrillation in ICU patients.",
+      url: "",
+    },
+    {
+      id: "biomedical-data-analysis",
+      name: "In-depth Analysis of Biomedical Data",
+      createdAt: "2026-03-01T00:00:00Z",
+      description: "Analyzing TCGA genomic data, utilizing retinal images to detect glaucoma and Alzheimer's disease, and modeling cardiovascular disease prediction.",
+      url: "",
+    },
+    {
+      id: "network-security",
+      name: "Zero-Day Attack Prevention in Network Security",
+      createdAt: "2026-03-01T00:00:00Z",
+      description: "Applying TDA to web packet data to prevent zero-day attacks and identify unknown cyber threats.",
+      url: "",
+    },
+    {
+      id: "high-dimensional-data",
+      name: "Exploring Unsolved Challenges in High-Dimensional Data",
+      createdAt: "2026-03-01T00:00:00Z",
+      description: "Analyzing complex data structures in diverse fields such as rocket propulsion, aerospace engineering, and neuroscience.",
+      url: "",
+    }
   ],
 };
 
@@ -366,7 +403,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "연구 협업, 프로젝트 문의, 또는 기술적 논의가 필요하시면 언제든 연락해 주세요. TDA, Deep Learning, Backend Development 분야에서 함께 할 수 있습니다.",
+      "Feel free to reach out for research collaborations, project inquiries, or technical discussions. I'm available in the fields of TDA, Deep Learning, and Backend Development.",
   },
   blogSection: {
     title: "Blogs",

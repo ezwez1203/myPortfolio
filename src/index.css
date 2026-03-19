@@ -12,33 +12,33 @@
 }
 @font-face {
   font-family: "Google Sans Bold";
-  src: local("Google Sans Bold"),
-    url("./assets/fonts/GoogleSans-Bold.ttf") format("woff");
+  src: local("JetBrains Mono Bold"),
+    url("./assets/fonts/JetBrainsMono-Bold.ttf") format("truetype");
 }
 @font-face {
   font-family: "Google Sans Bold Italic";
-  src: local("Google Sans Bold Italic"),
-    url("./assets/fonts/GoogleSans-BoldItalic.ttf") format("woff");
+  src: local("JetBrains Mono Bold Italic"),
+    url("./assets/fonts/JetBrainsMono-BoldItalic.ttf") format("truetype");
 }
 @font-face {
   font-family: "Google Sans Italic";
-  src: local("Google Sans Italic"),
-    url("./assets/fonts/GoogleSans-Italic.ttf") format("woff");
+  src: local("JetBrains Mono Italic"),
+    url("./assets/fonts/JetBrainsMono-Italic.ttf") format("truetype");
 }
 @font-face {
   font-family: "Google Sans Medium";
-  src: local("Google Sans Medium"),
-    url("./assets/fonts/GoogleSans-Medium.ttf") format("woff");
+  src: local("JetBrains Mono Medium"),
+    url("./assets/fonts/JetBrainsMono-Medium.ttf") format("truetype");
 }
 @font-face {
   font-family: "Google Sans Medium Italic";
-  src: local("Google Sans Medium Italic"),
-    url("./assets/fonts/GoogleSans-MediumItalic.ttf") format("woff");
+  src: local("JetBrains Mono Medium Italic"),
+    url("./assets/fonts/JetBrainsMono-MediumItalic.ttf") format("truetype");
 }
 @font-face {
   font-family: "Google Sans Regular";
-  src: local("Google Sans Regular"),
-    url("./assets/fonts/GoogleSans-Regular.ttf") format("woff");
+  src: local("JetBrains Mono Regular"),
+    url("./assets/fonts/JetBrainsMono-Regular.ttf") format("truetype");
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
