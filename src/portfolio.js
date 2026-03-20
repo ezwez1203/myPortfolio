@@ -26,7 +26,7 @@ const greeting = {
     "Creating new value through data and technology. Currently leading web app services as CTO of Futurevel.Co, while conducting research on solving unsolved challenges in medical and high-dimensional data using Topological Data Analysis (TDA).",
   resumeLink: "",
   portfolio_repository: "",
-  githubProfile: "",
+  githubProfile: "https://github.com/ezwez1203",
 };
 
 const socialMediaLinks = [

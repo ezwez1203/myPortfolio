@@ -33,7 +33,13 @@ export default function Greeting(props) {
                 <Button
                   text="📬 Contact Me"
                   newTab={false}
-                  href="/contact"
+                  href="mailto:ezwez1467@yonsei.ac.kr"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    navigator.clipboard.writeText("ezwez1467@yonsei.ac.kr");
+                    alert("이메일 주소가 복사되었습니다! (ezwez1467@yonsei.ac.kr)");
+                    window.location.href = "mailto:ezwez1467@yonsei.ac.kr";
+                  }}
                   theme={theme}
                   className="portfolio-repo-btn"
                 />
