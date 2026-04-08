@@ -3,9 +3,19 @@ import "./PublicationCard.css";
 import { Fade } from "react-reveal";
 
 export default function PublicationCard({ pub, theme }) {
-  function openPubinNewTab(url) {
-    var win = window.open(url, "_blank");
-    win.focus();
+  function handleClick(url) {
+    if (!url) return;
+    if (typeof url === "string" && url.toLowerCase().endsWith(".pdf")) {
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = "";
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    } else {
+      var win = window.open(url, "_blank");
+      win.focus();
+    }
   }
 
   return (
@@ -14,7 +24,7 @@ export default function PublicationCard({ pub, theme }) {
       style={{ backgroundColor: theme.highlight }}
     >
       <Fade bottom duration={2000} distance="40px">
-        <div key={pub.id} onClick={() => openPubinNewTab(pub.url)}>
+        <div key={pub.id} onClick={() => handleClick(pub.url)}>
           <div className="publication-name-div">
             <p className="publication-name" style={{ color: theme.text }}>
               {pub.name}

@@ -349,22 +349,14 @@ const publications = {
       name: "Adversarial Robustness of Deep Learning-Based AMC",
       createdAt: "2026-02-01T00:00:00Z",
       description: "Paper presented at ICAIIC 2026",
-      url: "",
-    },
-    {
-      id: "adafed-federated-learning",
-      name: "AdaFed: Adaptive Selective Aggregation for Heterogeneous Federated Learning in Autonomous Driving",
-      createdAt: "2025-01-01T00:00:00Z",
-      description:
-        "Research on adaptive selective aggregation for heterogeneous federated learning in autonomous driving",
-      url: "",
+      url: require("./assets/docs/Adversarial Robustness Analysis of Deep Learning-Based Automatic Modulation Classification in Wireless Communication.pdf"),
     },
     {
       id: "breast-cancer-subtype",
       name: "Discovering Novel Breast Cancer Subtypes",
       createdAt: "2026-03-01T00:00:00Z",
       description: "Applying Topological Data Analysis (TDA) to genomic data to explore previously unknown breast cancer subtypes.",
-      url: "",
+      url: "https://github.com/TDA-Medical",
     },
     {
       id: "icu-event-prediction",
@@ -378,22 +370,8 @@ const publications = {
       name: "In-depth Analysis of Biomedical Data",
       createdAt: "2026-03-01T00:00:00Z",
       description: "Analyzing TCGA genomic data, utilizing retinal images to detect glaucoma and Alzheimer's disease, and modeling cardiovascular disease prediction.",
-      url: "",
+      url: "https://github.com/ezwez1203/Altzheimer-Glaucoma-Classification-by-TDA",
     },
-    {
-      id: "network-security",
-      name: "Zero-Day Attack Prevention in Network Security",
-      createdAt: "2026-03-01T00:00:00Z",
-      description: "Applying TDA to web packet data to prevent zero-day attacks and identify unknown cyber threats.",
-      url: "",
-    },
-    {
-      id: "high-dimensional-data",
-      name: "Exploring Unsolved Challenges in High-Dimensional Data",
-      createdAt: "2026-03-01T00:00:00Z",
-      description: "Analyzing complex data structures in diverse fields such as rocket propulsion, aerospace engineering, and neuroscience.",
-      url: "",
-    }
   ],
 };
 
