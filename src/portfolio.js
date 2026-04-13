@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Lucius",
   logo_name: "Lucius",
-  nickname: "CTO at Futurevel.Co",
+  nickname: "BS reasercher in Yonsei University",
   subTitle:
     "Creating new value through data and technology. Currently leading web app services as CTO of Futurevel.Co, while conducting research on solving unsolved challenges in medical and high-dimensional data using Topological Data Analysis (TDA).",
   resumeLink: "",
@@ -30,14 +30,30 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  // Add your social media links here
-  // Example:
-  // {
-  //   name: "Github",
-  //   link: "https://github.com/your-username",
-  //   fontAwesomeIcon: "fa-github",
-  //   backgroundColor: "#181717",
-  // },
+  {
+    name: "Github",
+    link: "https://github.com/ezwez1203",
+    fontAwesomeIcon: "fa-github",
+    backgroundColor: "#181717",
+  },
+  {
+    name: "LinkedIn",
+    link: "https://linkedin.com/in/lucius-hw",
+    fontAwesomeIcon: "fa-linkedin-in",
+    backgroundColor: "#0077B5",
+  },
+  {
+    name: "Instagram",
+    link: "https://instagram.com/_luciushwang",
+    fontAwesomeIcon: "fa-instagram",
+    backgroundColor: "#E4405F",
+  },
+  {
+    name: "Gmail",
+    link: "mailto:ezwez1467@yonsei.ac.kr",
+    fontAwesomeIcon: "fa-envelope",
+    backgroundColor: "#D14836",
+  },
 ];
 
 const skills = {
@@ -331,7 +347,7 @@ const experience = {
 const projectsHeader = {
   title: "Research & Projects",
   description:
-    "Solving complex high-dimensional data challenges across healthcare, security, aerospace, and more — by combining Topological Data Analysis (TDA) with deep learning.",
+    "Solving complex high-dimensional data challenges across healthcare — by combining Topological Data Analysis (TDA) with deep learning.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -345,11 +361,18 @@ const publicationsHeader = {
 const publications = {
   data: [
     {
+      id: "whereclass",
+      name: "WhereClass",
+      createdAt: "2025-01-01T00:00:00Z",
+      description: "A website of maps that shows the map inside the buildings of Yonsei university",
+      url: "https://whereclass.me",
+    },
+    {
       id: "adversarial-robustness-amc",
       name: "Adversarial Robustness of Deep Learning-Based AMC",
       createdAt: "2026-02-01T00:00:00Z",
       description: "Paper presented at ICAIIC 2026",
-      url: require("./assets/docs/Adversarial Robustness Analysis of Deep Learning-Based Automatic Modulation Classification in Wireless Communication.pdf"),
+      url: "https://ieeexplore.ieee.org/document/11454198",
     },
     {
       id: "breast-cancer-subtype",
@@ -379,7 +402,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "1767780979829.jpg",
     description:
       "Feel free to reach out for research collaborations, project inquiries, or technical discussions. I'm available in the fields of TDA, Deep Learning, and Backend Development.",
   },

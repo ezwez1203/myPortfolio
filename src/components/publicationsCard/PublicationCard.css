@@ -6,6 +6,7 @@
   cursor: pointer;
   flex: 1 1 25%;
 }
+
 .publication-card-div:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
 }
