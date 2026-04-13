@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.c0aed49c.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.ee21276a.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.ee21276a.chunk.js.map",
+    "main.css": "/myPortfolio/static/css/main.da52d9b5.chunk.css",
+    "main.js": "/myPortfolio/static/js/main.32c1bca9.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.32c1bca9.chunk.js.map",
     "runtime-main.js": "/myPortfolio/static/js/runtime-main.284dcfce.js",
     "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.284dcfce.js.map",
     "static/js/2.bb73136e.chunk.js": "/myPortfolio/static/js/2.bb73136e.chunk.js",
     "static/js/2.bb73136e.chunk.js.map": "/myPortfolio/static/js/2.bb73136e.chunk.js.map",
     "index.html": "/myPortfolio/index.html",
-    "precache-manifest.23fedd5c6d42ec744fadbe9040824885.js": "/myPortfolio/precache-manifest.23fedd5c6d42ec744fadbe9040824885.js",
+    "precache-manifest.620cbe25fc66e7decc8a74f3c6075bd3.js": "/myPortfolio/precache-manifest.620cbe25fc66e7decc8a74f3c6075bd3.js",
     "service-worker.js": "/myPortfolio/service-worker.js",
-    "static/css/main.c0aed49c.chunk.css.map": "/myPortfolio/static/css/main.c0aed49c.chunk.css.map",
+    "static/css/main.da52d9b5.chunk.css.map": "/myPortfolio/static/css/main.da52d9b5.chunk.css.map",
     "static/media/Adversarial Robustness Analysis of Deep Learning-Based Automatic Modulation Classification in Wireless Communication.pdf": "/myPortfolio/static/media/Adversarial Robustness Analysis of Deep Learning-Based Automatic Modulation Classification in Wireless Communication.958b912e.pdf",
     "static/media/index.css": "/myPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Ashutosh_Hathidara_Resume_ML.pdf": "/myPortfolio/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf",
@@ -59,7 +59,7 @@
   "entrypoints": [
     "static/js/runtime-main.284dcfce.js",
     "static/js/2.bb73136e.chunk.js",
-    "static/css/main.c0aed49c.chunk.css",
-    "static/js/main.ee21276a.chunk.js"
+    "static/css/main.da52d9b5.chunk.css",
+    "static/js/main.32c1bca9.chunk.js"
   ]
 }
