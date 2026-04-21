@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b528ee21feeeb62d9bb09f6f06e181f",
+    "revision": "ffcd39a3546977f72b6c8b9b371b435b",
     "url": "/myPortfolio/index.html"
   },
   {
-    "revision": "a31c184d29b65fbdfc94",
-    "url": "/myPortfolio/static/css/main.da52d9b5.chunk.css"
+    "revision": "56d0bdbbf53e5b0569ee",
+    "url": "/myPortfolio/static/css/main.2f50b9a4.chunk.css"
   },
   {
-    "revision": "08bfe684e98f1fdbaa25",
-    "url": "/myPortfolio/static/js/2.7564db0e.chunk.js"
+    "revision": "e283562c0b8789e6e184",
+    "url": "/myPortfolio/static/js/2.d8f0e694.chunk.js"
   },
   {
-    "revision": "a31c184d29b65fbdfc94",
-    "url": "/myPortfolio/static/js/main.51d5234b.chunk.js"
+    "revision": "56d0bdbbf53e5b0569ee",
+    "url": "/myPortfolio/static/js/main.428c8d8e.chunk.js"
   },
   {
     "revision": "55559e0aa2645f329670",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/myPortfolio/static/media/Agustina.21f233e1.woff"
-  },
-  {
-    "revision": "bad3797865a0fde6fe985fd2b44b8554",
-    "url": "/myPortfolio/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf"
   },
   {
     "revision": "2a088c43102ea7888cdf39481ec48496",
