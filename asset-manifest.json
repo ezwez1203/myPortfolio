@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.3257190c.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.eca01dec.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.eca01dec.chunk.js.map",
+    "main.css": "/myPortfolio/static/css/main.449a5aa6.chunk.css",
+    "main.js": "/myPortfolio/static/js/main.bc3ae428.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.bc3ae428.chunk.js.map",
     "runtime-main.js": "/myPortfolio/static/js/runtime-main.284dcfce.js",
     "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.284dcfce.js.map",
     "static/js/2.d8f0e694.chunk.js": "/myPortfolio/static/js/2.d8f0e694.chunk.js",
     "static/js/2.d8f0e694.chunk.js.map": "/myPortfolio/static/js/2.d8f0e694.chunk.js.map",
     "index.html": "/myPortfolio/index.html",
-    "precache-manifest.da1703cd33074b1c80ddc2d708f7697e.js": "/myPortfolio/precache-manifest.da1703cd33074b1c80ddc2d708f7697e.js",
+    "precache-manifest.8842c4060606d5ee75c8a461cd1cebec.js": "/myPortfolio/precache-manifest.8842c4060606d5ee75c8a461cd1cebec.js",
     "service-worker.js": "/myPortfolio/service-worker.js",
-    "static/css/main.3257190c.chunk.css.map": "/myPortfolio/static/css/main.3257190c.chunk.css.map",
+    "static/css/main.449a5aa6.chunk.css.map": "/myPortfolio/static/css/main.449a5aa6.chunk.css.map",
     "static/media/1767780979829.jpg": "/myPortfolio/static/media/1767780979829.8c3f0ef7.jpg",
     "static/media/index.css": "/myPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Futurevel logo.svg": "/myPortfolio/static/media/Futurevel logo.2a088c43.svg",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.284dcfce.js",
     "static/js/2.d8f0e694.chunk.js",
-    "static/css/main.3257190c.chunk.css",
-    "static/js/main.eca01dec.chunk.js"
+    "static/css/main.449a5aa6.chunk.css",
+    "static/js/main.bc3ae428.chunk.js"
   ]
 }
