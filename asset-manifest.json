@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.449a5aa6.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.8716c6d6.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.8716c6d6.chunk.js.map",
+    "main.js": "/myPortfolio/static/js/main.f13e792e.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.f13e792e.chunk.js.map",
     "runtime-main.js": "/myPortfolio/static/js/runtime-main.284dcfce.js",
     "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.284dcfce.js.map",
-    "static/js/2.d8f0e694.chunk.js": "/myPortfolio/static/js/2.d8f0e694.chunk.js",
-    "static/js/2.d8f0e694.chunk.js.map": "/myPortfolio/static/js/2.d8f0e694.chunk.js.map",
+    "static/js/2.d00b3147.chunk.js": "/myPortfolio/static/js/2.d00b3147.chunk.js",
+    "static/js/2.d00b3147.chunk.js.map": "/myPortfolio/static/js/2.d00b3147.chunk.js.map",
     "index.html": "/myPortfolio/index.html",
-    "precache-manifest.ded94a178370395ce5ad3c8fc6752627.js": "/myPortfolio/precache-manifest.ded94a178370395ce5ad3c8fc6752627.js",
+    "precache-manifest.66a830f88868df8baa33d9608362eb32.js": "/myPortfolio/precache-manifest.66a830f88868df8baa33d9608362eb32.js",
     "service-worker.js": "/myPortfolio/service-worker.js",
     "static/css/main.449a5aa6.chunk.css.map": "/myPortfolio/static/css/main.449a5aa6.chunk.css.map",
     "static/media/1767780979829.jpg": "/myPortfolio/static/media/1767780979829.8c3f0ef7.jpg",
     "static/media/index.css": "/myPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Futurevel logo.svg": "/myPortfolio/static/media/Futurevel logo.2a088c43.svg",
     "static/media/HyundaiHigh.svg": "/myPortfolio/static/media/HyundaiHigh.804af7f1.svg",
+    "static/media/KakaoTalk_20260426_022255023.png": "/myPortfolio/static/media/KakaoTalk_20260426_022255023.fdeef43a.png",
     "static/media/YonseiUniversity.svg": "/myPortfolio/static/media/YonseiUniversity.d30a7648.svg",
     "static/media/address_image.svg": "/myPortfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/myPortfolio/static/media/animated_ashutosh.eaf02c2d.png",
@@ -57,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.284dcfce.js",
-    "static/js/2.d8f0e694.chunk.js",
+    "static/js/2.d00b3147.chunk.js",
     "static/css/main.449a5aa6.chunk.css",
-    "static/js/main.8716c6d6.chunk.js"
+    "static/js/main.f13e792e.chunk.js"
   ]
 }
