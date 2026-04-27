@@ -242,6 +242,6 @@ def build_pdf(target_path, photo_path=None):
 if __name__ == "__main__":
     root = Path(__file__).resolve().parents[1]
     target = root / "public" / "docs" / "Dohyun_Hwang_CV.pdf"
-    photo_path = root / "src" / "assets" / "images" / "1767780979829.jpg"
+    photo_path = root / "src" / "assets" / "images" / "KakaoTalk_20260426_022255023.png"
     target.parent.mkdir(parents=True, exist_ok=True)
     build_pdf(target, photo_path)
