@@ -108,7 +108,7 @@ def build_pdf(target_path, photo_path=None):
     photo_x = 18
     photo_y = 18
     photo_width = 28
-    photo_height = 36
+    photo_height = 27
     if photo_path and photo_path.exists():
         pdf.set_fill_color(229, 231, 235)
         pdf.rect(photo_x - 1, photo_y - 1, photo_width + 2, photo_height + 2, "F")
